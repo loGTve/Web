@@ -26,4 +26,4 @@ export interface ev_Charger extends ChargeResponse {
 
 
 // API_Key (Remove Before Upload Github)
-export const accesstoken = "";
+export const accesstoken = "API_Key_Was_Here";
